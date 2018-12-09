@@ -118,7 +118,7 @@ git clone 오픈소스프로젝트url 저장할디렉토리명
 ls -l > log.txt
 ```
 
-![01]()
+![01](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/img/02/01.png?raw=true)
 
 
 * 유닉스에선 출력은 **stdout, stderr** 두가지로 출력됨 
@@ -134,7 +134,7 @@ ls -a 1> result.txt
 rm name.txt 2> result.txt 
 ```
 
-![02]()
+![02](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/img/02/02.png?raw=true)
 
 * **프로그램**
   * 하드에 저장된 코드

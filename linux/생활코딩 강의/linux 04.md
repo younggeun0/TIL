@@ -40,6 +40,7 @@ ls -alR / > result.txt 2> error.log &
   * ls, mkdir, rm은 필요할때만 수행되는 프로그램들
   * 비유하자면 daemon은 냉장고(항상켜짐)/ ls 같은 명령어들은 티비(필요할때만 킴)
 * **Web Server가 대표적인 데몬**
+  * 실습은 CentOS로 했기 때문에 apt가 아니라 yum, 아래 명령과 조금 달랐음
 
 ```bash
 # 아파치 웹서버 설치
@@ -59,12 +60,63 @@ ps aux | grep apache2
 sudo service apache2 stop
 ```
 
+---
 
+### 정기적인 실행(cron)
 
+* **정기적으로 명령을 시켜주는 도구**
+* crontab expression 참고해서 vi이용해서 내용을 추가해주면 주기적인 작업을 시킬 수 있다.
 
+```bash
+# 크론 수정
+crontab -e
 
+# 크론에 추가했음 시간을 주기적으로 로그로 추가해주는 내용을 추가했음, 표준에러를 표준출력으로 보내줌
+*/1 * * * * date >> date.log 2>&1
+
+# 뒤쪽 내용을 쫒으면서 보여줌(ctrl+c로 빠져나옴)
+tail -f date.log
+```
 
 ---
+
+### 쉘을 시작할 때 실행(shell startup script)
+
+```bash
+# 명령어에 별명붙이기, l만 입력해도 ls -al이 실행됨
+alias l='ls -al'
+alias ..='cd ..'
+alias c='clear'
+```
+
+* 위 bash 명령어를 시작될 때 shell script를 시작시키면 반복안해도 됨
+
+```bash
+# shell check
+echo $SHELL
+
+# ~에 .bashrc에 bash 실행시 수행될 코드를 적으면 된다
+```
+
+![01]()
+
+---
+
+### 다중사용자
+
+* **유닉스계열은 다중사용자 시스템**
+    * 어렵고 보안문제 발생 가능,
+
+```bash
+# 자신을 식별하는 명령어 id
+id
+
+# 누가 접속했는지 확인하는 who
+who
+```
+
+---
+
 
 ### 자료 출처
 

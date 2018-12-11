@@ -17,7 +17,7 @@
 root@~# 
 ```
 
-![01]()
+![01](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/img/05/01.png?raw=true)
 
 ```bash
 # super유저로 변경하기

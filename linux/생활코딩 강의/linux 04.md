@@ -1,4 +1,4 @@
-## linux 03 - 백그라운드작업, 항상실행, 정기적 실행, shell Stratup script, 다중사용자
+## linux 04 - 백그라운드작업, 항상실행, 정기적 실행, shell Stratup script, 다중사용자
 
 ##### 2018-12-04
 

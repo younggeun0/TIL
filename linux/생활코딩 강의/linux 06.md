@@ -6,7 +6,7 @@
 
 ### 권한(Permission)
 
-*** User에게 File과 Directory에 대한 제한을 주는 것**
+* **User에게 File과 Directory에 대한 제한을 주는 것**
     * Read & Write & Excute
     * 다른 유저가 다른유저의 파일에 접근했을때 Permission denied
 

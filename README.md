@@ -4,10 +4,13 @@ Today I learned, 새롭게 배운 내용들 정리하는 Repository
 
 ---
 
-### linux 기초
+### linux 기초 (생활코딩)
 
 - 181126 : [기본 명령어](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/linux%2001.md)
 - 181127 : [sudo, package manager, CLI, wget, git, IO Redirection](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/linux%2002.md)
 - 181204 : [shell과 kernal, shell script, 디렉토리의 구조, 프로세스모니터링, 파일 찾는법](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/linux%2003.md)
 - 181204 : [백그라운드작업, 항상실행, 정기적 실행, shell Stratup script, 다중사용자](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/linux%2004.md)
 - 181204 : [관리자와 일반사용자, 사용자 추가](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/linux%2005.md)
+- 181207 : [권한, 그룹](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/linux%2006.md)
+- 181207 : [인터넷, 네트워크, 서버, 아파치, SSH, 포트, 도메인](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/linux%2007.md)
+- 181209 : [rsync, ssh key, 연속 명령 실행시키기](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/linux%2008.md)

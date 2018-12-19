@@ -14,3 +14,7 @@ Today I learned, 새롭게 배운 내용들 정리하는 Repository
 - 181207 : [권한, 그룹](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/linux%2006.md)
 - 181207 : [인터넷, 네트워크, 서버, 아파치, SSH, 포트, 도메인](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/linux%2007.md)
 - 181209 : [rsync, ssh key, 연속 명령 실행시키기](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/linux%2008.md)
+
+### git 기초
+
+- 181219 : [기본 용어](https://github.com/younggeun0/TIL/blob/master/git/basic/git01.md)

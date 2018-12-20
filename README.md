@@ -18,3 +18,4 @@ Today I learned, 새롭게 배운 내용들 정리하는 Repository
 ### git 기초
 
 - 181219 : [기본 용어](https://github.com/younggeun0/TIL/blob/master/git/basic/git01.md)
+- 181220 : [저장소 생성](https://github.com/younggeun0/TIL/blob/master/git/basic/git02.md)

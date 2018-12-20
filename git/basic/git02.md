@@ -11,7 +11,7 @@
 git --version
 ```
 
-![01]()
+![01](https://github.com/younggeun0/TIL/blob/master/git/basic/img/02/01.png?raw=true)
 
 
 * 설치한 git에 본인의 **사용자명과 메일주소** 등록하기
@@ -24,7 +24,7 @@ git config --global user.name "<사용자명>"
 git config --global user.email "<메일주소>"
 ```
 
-![02]()
+![02](https://github.com/younggeun0/TIL/blob/master/git/basic/img/02/02.png?raw=true)
 
 ---
 
@@ -36,12 +36,12 @@ git config --global user.email "<메일주소>"
 git init
 ```
 
-![03]()
+![03](https://github.com/younggeun0/TIL/blob/master/git/basic/img/02/03.png?raw=true)
 
 * **remote repository**는 github같은 사이트에서 생성한다.
   * github같은 경우 새 remote repository를 생성하면 초기 설정방법을 알려준다.
 
-![04]()
+![04](https://github.com/younggeun0/TIL/blob/master/git/basic/img/02/04.png?raw=true)
 
 ---
 
@@ -53,7 +53,7 @@ git init
 git status
 ```
 
-![05]()
+![05](https://github.com/younggeun0/TIL/blob/master/git/basic/img/02/05.png?raw=true)
 
 * untracked files로 새로 만든 sample.txt가 확인가능, 처음 한번 인덱스에 등록하면 추적 대상으로 등록할 수 있다. 
   * 파일을 인덱스에 등록하는 명령어는 **add**
@@ -65,7 +65,7 @@ git add <file>..
 git add .
 ```
 
-![06]()
+![06](https://github.com/younggeun0/TIL/blob/master/git/basic/img/02/06.png?raw=true)
 
 * commit 명령어를 실행해 index의 내용을 repository에 저장한다. ??
   
@@ -74,5 +74,20 @@ git add .
 git commit -m "<comment>"
 ```
 
+![07](https://github.com/younggeun0/TIL/blob/master/git/basic/img/02/07.png?raw=true)
 
+```bash
+# repository의 변경 이력을 확인할 때 사용하는 log
+git log
+```
+
+![08](https://github.com/younggeun0/TIL/blob/master/git/basic/img/02/08.png?raw=true)
+
+---
+
+### push, clone, pull
+
+* **local repository의 내용을 remote repository에 업로드**하는 작업이 **push**
+* **remote repository**에 있는 내용을 통째로 **복제해서 가져오는게 clone**
+* **remote repository**에 업데이트된 **변경 이력을 가져오는 작업은 pull**
 

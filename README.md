@@ -4,7 +4,7 @@ Today I learned, 새롭게 배운 내용들 정리하는 Repository
 
 ---
 
-### linux 기초 (생활코딩)
+### linux 
 
 - 181126 : [기본 명령어](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/linux%2001.md)
 - 181127 : [sudo, package manager, CLI, wget, git, IO Redirection](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/linux%2002.md)
@@ -15,7 +15,9 @@ Today I learned, 새롭게 배운 내용들 정리하는 Repository
 - 181207 : [인터넷, 네트워크, 서버, 아파치, SSH, 포트, 도메인](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/linux%2007.md)
 - 181209 : [rsync, ssh key, 연속 명령 실행시키기](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/linux%2008.md)
 
-### git 기초
+### git 
 
 - 181219 : [기본 용어](https://github.com/younggeun0/TIL/blob/master/git/basic/git01.md)
 - 181220 : [저장소 생성](https://github.com/younggeun0/TIL/blob/master/git/basic/git02.md)
+- 190104 : [remote repository folk 후 pull request를 사용한 협업방법](https://github.com/younggeun0/TIL/blob/master/git/basic/git03.md)
+- 190104 : [JAVA Project 깃허브 원격저장소 내용을 eclipse workspace로 추가하기](https://github.com/younggeun0/TIL/blob/master/git/basic/git04.md)

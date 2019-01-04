@@ -27,8 +27,6 @@
 
 ![05](https://github.com/younggeun0/TIL/blob/master/git/basic/img/04/05.png?raw=true)
 
-![06](https://github.com/younggeun0/TIL/blob/master/git/basic/img/04/06.png?raw=true)
-
 * eclipse Package Explorer에서 New-Java Project 선택
     * Use default location 선택 해제 후 Browse 버튼클릭 후 Clone한 프로젝트 경로 선택, Finish로 프로젝트 생성
 

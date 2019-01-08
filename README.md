@@ -4,6 +4,10 @@ Today I learned, 새롭게 배운 내용들 정리하는 Repository
 
 ---
 
+### Design Pattern
+
+-190108 : [Strategy Pattern](https://github.com/younggeun0/TIL/blob/master/designPattern/dp01.md)
+
 ### linux 
 
 - 181126 : [기본 명령어](https://github.com/younggeun0/TIL/blob/master/linux/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98/linux%2001.md)

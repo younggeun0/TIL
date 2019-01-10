@@ -7,6 +7,7 @@ Today I learned, 새롭게 배운 내용들 정리하는 Repository
 ### Design Pattern
 
 - 190108 : [Strategy Pattern](https://github.com/younggeun0/TIL/blob/master/designPattern/dp01.md)
+- 190110 : [Adapter Pattern](https://github.com/younggeun0/TIL/blob/master/designPattern/dp02.md)
 
 ### linux 
 

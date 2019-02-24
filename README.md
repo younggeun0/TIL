@@ -4,7 +4,7 @@ Today I learned, 새롭게 배운 내용들 정리하는 Repository
 
 ---
 
-### Oracle, Java, HTML, CSS, JS.. 
+### Oracle, Java, HTML, CSS, JS, jQuery
 - [쌍용교육센터 학습내용 ](https://github.com/younggeun0/SSangYoung)
 
 ### Design Pattern

@@ -1,11 +1,20 @@
 # Today I learned
 
-Today I learned, 새롭게 배운 내용들 정리하는 Repository
+**Today I learned**, 새롭게 배운 내용들을 정리하는 Repository
 
 ---
 
-### Oracle, Java, .. 
-- [쌍용교육센터 학습내용 ](https://github.com/younggeun0/SSangYoung)
+### 쌍용 교육센터 학습내용
+- **Oracle, Java SE, HTML, CSS, JS, jQuery, Java EE**
+- 181022~190515 : [쌍용교육센터 학습내용 ](https://github.com/younggeun0/SSangYoung)
+
+### TIL
+
+- 190514 : [REST](https://younggeun0.github.io/TIL-REST/) 
+
+### Algorithm
+
+- [알고리즘 스터디 Repository](https://github.com/younggeun0/algorithm_study)
 
 ### Design Pattern
 

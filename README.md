@@ -21,6 +21,7 @@
 - 190108 : [Strategy Pattern](https://github.com/younggeun0/TIL/blob/master/designPattern/dp01.md)
 - 190110 : [Adapter Pattern](https://github.com/younggeun0/TIL/blob/master/designPattern/dp02.md)
 - 190111 : [Template Method Pattern](https://github.com/younggeun0/TIL/blob/master/designPattern/dp03.md)
+- 190527 : [Factory Method Pattern](https://github.com/younggeun0/TIL/blob/master/designPattern/dp04.md)
 
 ### linux 
 

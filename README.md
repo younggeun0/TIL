@@ -1,4 +1,4 @@
-# Today I learned
+# Today I learned✍🏼
 
 **Today I learned**, 새롭게 배운 내용들을 정리하는 Repository
 

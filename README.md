@@ -26,6 +26,7 @@
 - 190527 : [Singleton Pattern](https://github.com/younggeun0/TIL/blob/master/designPattern/dp05.md)
 - 190527 : [Prototype Pattern](https://github.com/younggeun0/TIL/blob/master/designPattern/dp06.md)
 - 190527 : [Builder Pattern](https://github.com/younggeun0/TIL/blob/master/designPattern/dp07.md)
+- 190528 : [Abstract Factory Pattern, Bridge Pattern](https://github.com/younggeun0/TIL/blob/master/designPattern/dp08.md)
 
 ### linux 
 

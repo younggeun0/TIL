@@ -11,6 +11,7 @@
 ### TIL
 
 - 190514 : [REST](https://younggeun0.github.io/TIL-REST/) 
+- 190529 : [Vim 정리 01](https://younggeun0.github.io/TIL-VIM-01/)
 
 ### Algorithm
 

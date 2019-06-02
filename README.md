@@ -29,6 +29,7 @@
 - 190528 : [Abstract Factory Pattern, Bridge Pattern](https://github.com/younggeun0/TIL/blob/master/designPattern/dp08.md)
 - 190530 : [Composite Pattern, Decorator Pattern](https://github.com/younggeun0/TIL/blob/master/designPattern/dp09.md)
 - 190601 : [Visitor Pattern](https://github.com/younggeun0/TIL/blob/master/designPattern/dp10.md)
+- 190602 : [Chain of Responsibility Pattern](https://github.com/younggeun0/TIL/blob/master/designPattern/dp11.md)
 
 ### linux 
 

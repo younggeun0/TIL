@@ -52,3 +52,7 @@
 - 181220 : [저장소 생성](https://github.com/younggeun0/TIL/blob/master/git/basic/git02.md)
 - 190104 : [remote repository folk 후 pull request를 사용한 협업방법](https://github.com/younggeun0/TIL/blob/master/git/basic/git03.md)
 - 190104 : [JAVA Project 깃허브 원격저장소 내용을 eclipse workspace로 추가하기](https://github.com/younggeun0/TIL/blob/master/git/basic/git04.md)
+
+### 기술 면접용 간단 개념정리
+
+- 190611~ : [개념 정리]()

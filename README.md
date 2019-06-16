@@ -55,4 +55,4 @@
 
 ### 기술면접용 단어, 개념정리
 
-- 190611~ : [단어들](https://github.com/younggeun0/TIL/blob/master/words/words.md)
+- 190611~ : [취뽀가즈아](https://github.com/younggeun0/TIL/blob/master/words/words.md)

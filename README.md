@@ -53,6 +53,6 @@
 - 190104 : [remote repository folk 후 pull request를 사용한 협업방법](https://github.com/younggeun0/TIL/blob/master/git/basic/git03.md)
 - 190104 : [JAVA Project 깃허브 원격저장소 내용을 eclipse workspace로 추가하기](https://github.com/younggeun0/TIL/blob/master/git/basic/git04.md)
 
-### 기술면접용 간단 개념정리
+### 기술면접용 단어, 개념정리
 
 - 190611~ : [단어들](https://github.com/younggeun0/TIL/blob/master/words/words.md)

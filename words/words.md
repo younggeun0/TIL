@@ -4,6 +4,29 @@
 
 ---
 
+### HTML5
+
+* **HTML의 완전한 5번째 버전, 월드 와이드 웹(World Wide Web)의 핵심 마크업 언어**
+  * 2004년 7월 Web Hypertext Application Technology Working Group(WHATWG)에서 웹 애플리케이션 1.0이라는 이름으로 세부 명세 작업을 시작
+* HTML5는 HTML4.01, XHTML 1.0, DOM 레벨 2 HTML 에 대한 차기 표준제안
+  * **비디오, 오디오 등 다양한 부가기능과 최신 멀티미디어 콘텐츠를 액티브X없이 브라우저에서 쉽게 볼 수 있게 하는 것을 목적으로 함**
+* **HTML4와의 차이점**
+  * 요소 추가
+    * 구조적 요소 - 구역을 나누는 블록 요소인 div 요소를 대신함
+      * header/nav/article/section/aside/footer
+    * 멀티미디어 요소 - 플러그인 없이 멀티미디어를 재생가능
+      * audio - 오디오를 재생
+      * video - 비디오를 재생
+      * canvas
+    * command/ datalist/ details/ embed/ figure/ figcaption
+  * 요소 의미 변경
+    * em/ hr
+  * 문서 선언 - `<!DOCTYPE html>`으로 간소화됨(대소문자 구별안함)
+  * 요소 제거
+    * 비슷한 기능의 다른 태그로 대체 가능한 태그들 - acronym, applet, dir, isindex
+    * 디자인적인 기능 이상의 의미가 없어 삭제(CSS로 대체 가능한 태그들) - basefont, big, center, font, striker, tt
+    * 웹 접근성 향상을 위해 사용을 지양하는 태그들 - frame, frameset, noframes
+
 ### 기계어
 
 * CPU가 직접 해독하고 실행할 수 있는 비트 단위로 쓰인 컴퓨터 언어를 통틀어 일컫는다

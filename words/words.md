@@ -4,6 +4,12 @@
 
 ---
 
+### stand-alone network(intranet)
+
+* A computer network that uses Internet protocol technology within an organization
+
+
+
 ### 소프트웨어 디자인 패턴
 
 * 소프트웨어 공학, 소프트웨어 디자인에서 특정 문맥에서 공통적으로 발생하는 문제에 대한 재사용 가능한 해결책

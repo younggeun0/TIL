@@ -8,15 +8,17 @@
 
 * A computer network that uses Internet protocol technology within an organization
 
-### WBS(Work Breakdown Structure, 작업분류체계)
+### WBS(Work Breakdown Structure)
 
-* 프로젝트 범위를 체계적으로 조직하고 정의하기 위해 각 구성요소들을 업무중심으로 분류, 표시한 가계도(Family Tree)
-* 전체 업무를 분류하여 단계별 작업과 단위작업들이 계층적 구조(Hierarchical Structure)로 구성
+* 업무 분업 구조 == 작업 분해 구조 == 작업 분류 체계 == 작업 분할 구조 == 작업 분할 구도
+* WBS는 팀의 작업을 관리 가능한 부분들로 조직화한 프로젝트 구조
 
-### 마일스톤
+### 마일스톤(milestone)
 
-* 프로젝트를 관리하기 위한 일정을 정하는 목적지 역할
-* 프로젝트를 효율적으로 관리하기 쉽게 중요한 여러 단계를 나누는 것
+* 프로젝트 진행 과정에서 특기할 만한 사건이나 이정표
+* 프로젝트 성공을 위해 반드시 거쳐야 하는 중요한 지점
+  * 프로젝트 일정관리를 위해 반드시 필요한 지점을 체크하기 위해 
+
 
 ### 소프트웨어 디자인 패턴
 

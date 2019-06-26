@@ -8,7 +8,15 @@
 
 * A computer network that uses Internet protocol technology within an organization
 
+### WBS(Work Breakdown Structure, 작업분류체계)
 
+* 프로젝트 범위를 체계적으로 조직하고 정의하기 위해 각 구성요소들을 업무중심으로 분류, 표시한 가계도(Family Tree)
+* 전체 업무를 분류하여 단계별 작업과 단위작업들이 계층적 구조(Hierarchical Structure)로 구성
+
+### 마일스톤
+
+* 프로젝트를 관리하기 위한 일정을 정하는 목적지 역할
+* 프로젝트를 효율적으로 관리하기 쉽게 중요한 여러 단계를 나누는 것
 
 ### 소프트웨어 디자인 패턴
 

@@ -4,6 +4,12 @@
 
 ---
 
+### porting(포팅, 이식)
+
+* CS에서 실행 가능한 프로그램이 원래 설계된 바와 다른 컴퓨팅 환경(이를테면 CPU, 운영 체제, 서드 파티 라이브러리 등)에서 동작할 수 있도록 하는 과정
+* 소프트웨어나 하드웨어가 다른 환경에서 사용할 수 있게 변경되는 것에도 해당한다
+* 소스 하나로 여러 플랫폼에서 사용할 수 있는 것을 크로스 플랫폼으로 부른다
+
 ### stand-alone network(intranet)
 
 * A computer network that uses Internet protocol technology within an organization

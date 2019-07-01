@@ -53,6 +53,50 @@
 - 190104 : [remote repository folk 후 pull request를 사용한 협업방법](https://github.com/younggeun0/TIL/blob/master/git/basic/git03.md)
 - 190104 : [JAVA Project 깃허브 원격저장소 내용을 eclipse workspace로 추가하기](https://github.com/younggeun0/TIL/blob/master/git/basic/git04.md)
 
-### 간단 용어 개념 정리
+### 매일매일 간단 정리
 
-- 190611~ : [위키 정리](https://github.com/younggeun0/TIL/blob/master/words/words.md)
+- 190611 : [JSP, Servlet, WAS & WebContainer](https://github.com/younggeun0/TIL/blob/master/words/words_190611.md)
+- 190612 : [BI, OLAP, DW, BSC, ERP, Paperless](https://github.com/younggeun0/TIL/blob/master/words/words_190612.md)
+- 190613 : [애자일 소프트웨어 개발, 폭포수 모델, 소프트웨어 디자인 패턴](https://github.com/younggeun0/TIL/blob/master/words/words_190613.md)
+- 190614 : [차세대, 고도화, SI, SM, 솔루션](https://github.com/younggeun0/TIL/blob/master/words/words_190614.md)
+- 190615 : [AWS, 베어본, TypeScript](https://github.com/younggeun0/TIL/blob/master/words/words_190615.md)
+- 190616 : [ASP, SaaS, PaaS](https://github.com/younggeun0/TIL/blob/master/words/words_190616.md)
+- 190617 : [Docker, VM, LinkedList와 ArrayList 차이](https://github.com/younggeun0/TIL/blob/master/words/words_190617.md)
+- 190618 : [기계어, Assembly Lang, Low-level/High-level Lang, Compiler, Interpreter](https://github.com/younggeun0/TIL/blob/master/words/words_190618.md)
+- 190619 : [Stand-alone, WBS, 마일스톤, API, HTML5](https://github.com/younggeun0/TIL/blob/master/words/words_190619.md)
+- 190701 : [Stand-alone, WBS, 마일스톤, API, HTML5](https://github.com/younggeun0/TIL/blob/master/words/words_190619.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -64,7 +64,8 @@
 - 190617 : [Docker, VM, LinkedList와 ArrayList 차이](https://github.com/younggeun0/TIL/blob/master/words/words_190617.md)
 - 190618 : [기계어, Assembly Lang, Low-level/High-level Lang, Compiler, Interpreter](https://github.com/younggeun0/TIL/blob/master/words/words_190618.md)
 - 190619 : [Stand-alone, WBS, 마일스톤, API, HTML5](https://github.com/younggeun0/TIL/blob/master/words/words_190619.md)
-- 190701 : [Stand-alone, WBS, 마일스톤, API, HTML5](https://github.com/younggeun0/TIL/blob/master/words/words_190619.md)
+- 190620 : [Peer Review, Walkthrough, Inspection, Porting](https://github.com/younggeun0/TIL/blob/master/words/words_190620.md)
+- 190701 : [POC, BMT](https://github.com/younggeun0/TIL/blob/master/words/words_190701.md)
 
 
 

@@ -69,6 +69,7 @@
 - 190702 : [WYSIWYG, 데스벨리, 린 스타트업](https://github.com/younggeun0/TIL/blob/master/words/words_190702.md)
 - 190703 : [새줄 문자](https://github.com/younggeun0/TIL/blob/master/words/words_190703.md)
 - 190704 : [리본, DPI, 젠킨슨, CI](https://github.com/younggeun0/TIL/blob/master/words/words_190704.md)
+- 190711 : [공인 아이피 주소, 사설 아이피 주소](https://github.com/younggeun0/TIL/blob/master/words/words_190711.md)
 
 
 

@@ -13,6 +13,10 @@
 - 190514 : [REST](https://younggeun0.github.io/TIL-REST/) 
 - 190529 : [Vim 정리 01](https://younggeun0.github.io/TIL-VIM-01/)
 
+### 자료구조
+
+- [자료구조 스터디 Repository](https://github.com/younggeun0/DataStructureStudy)
+
 ### Algorithm
 
 - [알고리즘 스터디 Repository](https://github.com/younggeun0/algorithm_study)

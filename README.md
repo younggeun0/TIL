@@ -57,7 +57,7 @@
 - 190104 : [remote repository folk 후 pull request를 사용한 협업방법](https://github.com/younggeun0/TIL/blob/master/git/basic/git03.md)
 - 190104 : [JAVA Project 깃허브 원격저장소 내용을 eclipse workspace로 추가하기](https://github.com/younggeun0/TIL/blob/master/git/basic/git04.md)
 
-### 매일매일 간단 정리
+### 용어 정리
 
 - 190611 : [JSP, Servlet, WAS & WebContainer](https://github.com/younggeun0/TIL/blob/master/words/words_190611.md)
 - 190612 : [BI, OLAP, DW, BSC, ERP, Paperless](https://github.com/younggeun0/TIL/blob/master/words/words_190612.md)

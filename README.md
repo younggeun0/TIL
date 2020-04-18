@@ -6,7 +6,7 @@
 
 ### 쌍용 교육센터 학습내용
 - **Oracle, Java SE, HTML, CSS, JS, jQuery, Java EE**
-- 181022~190515 : [쌍용교육센터 학습내용 ](https://github.com/younggeun0/SSangYoung)
+- 181022~190515 : [쌍용교육센터](https://github.com/younggeun0/SSangYoung)
 
 ### TIL
 

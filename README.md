@@ -2,7 +2,7 @@
 
 - **Deprecated**, 이제 [GitPage](https://younggeun0.github.io/posts/)에 정리중
 
-~~Today I learned**, 새롭게 배운 내용들을 정리하는 Repository~~
+~~Today I learned, 새롭게 배운 내용들을 정리하는 Repository~~
 
 ---
 
